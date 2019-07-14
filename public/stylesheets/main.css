@@ -1,0 +1,25 @@
+
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail{
+    padding: 0;
+}
+
+.inlineform{
+    display: inline;
+}
+
+div{
+    word-wrap: break-word;
+}
+
+.divform{
+    width: 30%;
+    margin: 25px auto;
+}
+
+.divform h1{
+   text-align: center;
+}
